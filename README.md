@@ -60,7 +60,7 @@ This project is licensed under the MIT License. See the [LICENSE](https://github
 
 ## Contact
 
-For any questions or feedback, please contact [your-me@sujal.info](mailto:me@sujal.info).
+For any questions or feedback, please contact [me@sujal.info](mailto:me@sujal.info).
 
 ## Live Demo
 
